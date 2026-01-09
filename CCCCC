@@ -1158,3 +1158,6 @@ go
 
 
 
+
+execute sp_rename 'tab2', 'adfafsafsafasfdasf', 'OBJECT'
+go
